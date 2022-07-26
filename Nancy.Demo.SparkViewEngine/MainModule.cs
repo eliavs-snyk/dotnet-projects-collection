@@ -4,7 +4,7 @@ namespace Nancy.Demo.SparkViewEngine
     {
         /// <summary>
         /// Initializes a new instance of the <see cref="INancyModule"/> class.
-        /// </summary>
+        /// </summary>334535
         public MainModule()
         {
             Get("/", args =>
